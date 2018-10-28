@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 ### ^^^ see https://www.python.org/dev/peps/pep-0263/
 
@@ -11,10 +11,10 @@
 ### * Support of all known package types: PS3/PSX/PSP, PSV/PSM
 ### * Easy to maintain and no compiler necessary (=interpreter language)
 ### * Cross platform support
-###   > Decision: Python 3
-### * Compatible with Python 2 (target version 2.7)
-###   * Identical output
-###   * Forward-compatible solutions preferred
+###   * Decision: Python 3
+###     * Compatible with Python 2 (target version 2.7)
+###       * Identical output
+###       * Forward-compatible solutions preferred
 ###
 ### For options execute: PKG0_calc_hashes.py -h
 ### Use at your own risk!
