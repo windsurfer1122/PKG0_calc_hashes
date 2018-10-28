@@ -2,7 +2,8 @@
 Calculate hashes for data blocks inside PS3/PSX/PSP/PSV/PSM packages.
 
 Goals:
-* Build CMAC and SHA-1/256 hashes of data, just like it is used in the 0x40 digest of PKG0 packages (PS3/PSX/PSP/PSV/PSM)
+* Build CMAC and SHA-1/256 hashes of data, just like it is used in the 0x40 digest of PKG0 packages (PS3/PSX/PSP/PSV/PSM)<br>
+  For definition see http://www.psdevwiki.com/ps3/PKG_files#0x40_digest
 * Support of all known package types: PS3/PSX/PSP, PSV/PSM
 * Easy to maintain and no compiler necessary (=interpreter language)
 * Cross platform support
